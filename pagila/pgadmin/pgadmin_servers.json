@@ -1,0 +1,15 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "pagila",
+      "password": "SAMBAV",
+      "Group": "Servers",
+      "Port": 5432,
+      "Username": "postgres",
+      "Host": "localhost",
+      "PassFile": "/pgadmin4/pass",
+      "SSLMode": "disable",
+      "MaintenanceDB": "postgres"
+    }
+  }
+}
